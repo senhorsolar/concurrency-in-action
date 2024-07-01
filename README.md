@@ -1,1 +1,1 @@
-# Working through C++ Concurrency in Action 2ed
+# Working through C++ Concurrency in Action, 2ed
